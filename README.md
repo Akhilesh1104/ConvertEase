@@ -1,7 +1,7 @@
 # Word to PDF Converter
 
 ## Overview
-The Word to PDF Converter is a web application built using Express.js that allows users to convert Microsoft Word documents (.docx) to PDF format. This simple yet powerful tool provides a convenient way to convert documents online without the need for additional software or plugins.
+ConvertEase is a web application built using React.js and Express.js that allows users to convert Microsoft Word documents (.docx) to PDF format. This simple yet powerful tool provides a convenient way to convert documents online without the need for additional software or plugins.
 
 ## Application Screenshots
 ![Screenshot 2024-10-11 185425](https://github.com/user-attachments/assets/5417e872-5949-486f-9e31-1c43ea8d3701)
